@@ -1,9 +1,7 @@
 export let myFullName:string = "vijayasarathy";
 
 export class Product{
-    pId:number;
-    pName:string;
-    pPrice:number;
+    dfgjkdfhg
 
     constructor(id:number,name:string,price:number){
         this.pId = id;
